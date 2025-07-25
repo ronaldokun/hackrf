@@ -1,0 +1,7 @@
+[project]
+name = "hackrf"
+version = "0.1.0"
+description = "A high-performance asynchronous Python UDP server that streams `hackrf_sweep` output to multiple clients over the network and is executed server-side."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
